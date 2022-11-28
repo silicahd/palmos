@@ -1,4 +1,4 @@
-build-webos
+build-pamOS
 ===========
 
 Summary
